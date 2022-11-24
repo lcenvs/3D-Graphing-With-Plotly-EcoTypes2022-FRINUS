@@ -1,2 +1,2 @@
-# 3D-Graphing-With-Plotly-EcoTypes2022-TOP8
-Top eight Ecotypes plot, from Fa22 data (n = 1123)
+# 3D-Graphing-With-Plotly-EcoTypes2022-FRINUS
+Tri-country student response comparison, Fa22 data (n = 582)
